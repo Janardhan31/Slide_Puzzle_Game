@@ -1,7 +1,22 @@
-# [Slide Puzzle](https://youtu.be/sD3Os4H_EOU)
-- Coding Tutorial: https://youtu.be/sD3Os4H_EOU
-- Demo: https://imkennyyip.github.io/slide-puzzle/
+# 🎮 Slide Puzzle Game
 
-In this tutorial, you will learn how to create a doraemon-themed slide puzzle using mouse click drag events!
+A simple and interactive Slide Puzzle Game built using HTML, CSS, and JavaScript. Rearrange the shuffled tiles to form the original ordered grid. Challenge your logic and problem-solving skills in this fun browser-based puzzle!
 
-![slide-puzzle-preview](https://user-images.githubusercontent.com/78777681/163032087-dd7f31fc-b3bb-43ba-baee-2ebbef28dd35.png)
+## 🚀 Features
+
+- Interactive sliding tile interface
+- Randomized tile positions on each play
+- Smooth animations and responsive design
+- Win detection logic with a congratulatory message
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## 🎯 How to Play
+
+1. Tiles are randomly shuffled at the start.
+2. Click on a tile adjacent to the empty space to move it.
+3. Arrange all tiles in ascending order to win.
